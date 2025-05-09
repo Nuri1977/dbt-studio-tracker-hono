@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "dbt-studio-tracker-hono",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "960e02e0-1062-40ac-9264-fe3ed74e0f49",
+      "database_name": "green-fog-be48-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
